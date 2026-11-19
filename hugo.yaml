@@ -46,7 +46,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/oph3x"
+      url: "https://github.com/gonzalopuchades"
     - name: linkedin
       url: "https://linkedin.com/in/gonzalo-puchades-lopez/"
     - name: hackthebox
