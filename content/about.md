@@ -23,7 +23,7 @@ Through this blog, I share technical write-ups, security research, exploitation 
 
 ### Enlaces
 
-- **GitHub** — https://github.com/oph3x
+- **GitHub** — https://github.com/gonzalopuchades
 - **LinkedIn** — https://www.linkedin.com/in/gonzalo-puchades-lopez/
 - **HackTheBox** — https://profile.hackthebox.com/profile/019d9d2e-49cb-7002-9d92-b814f71588e5
 
