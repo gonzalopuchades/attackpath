@@ -64,26 +64,18 @@ params:
 
 menu:
   main:
-    - identifier: writeups
-      name: Writeups
-      url: /writeups/
-      weight: 10
-    - identifier: notes
-      name: Notes
-      url: /notes/
-      weight: 20
     - identifier: blog
       name: Blog
       url: /blog/
-      weight: 30
+      weight: 10
     - identifier: about
       name: About
       url: /about/
-      weight: 40
+      weight: 20
     - identifier: search
       name: Search
       url: /search/
-      weight: 50
+      weight: 30
 
 outputs:
   home:
